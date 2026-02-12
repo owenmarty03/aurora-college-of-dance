@@ -1,11 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <compendium version="5" auto_indent="NO">
+
   <class name="Bard" source="PHB 2024">
     <subclass name="College of Dance" source="PHB 2024">
 
       <!-- LEVEL 3 FEATURES -->
 
       <feature level="3" name="Dance Virtuoso">
-        <description>You have Advantage on any Charisma (Performance) check you make that involves dancing.</description>
+        <description>You have advantage on any Charisma (Performance) check you make that involves dancing.</description>
       </feature>
 
       <feature level="3" name="Release Your Inhibitions">
@@ -17,17 +19,17 @@
       </feature>
 
       <feature level="3" name="Bardic Damage">
-        <description>When you hit with an unarmed strike, you deal bludgeoning damage equal to one roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the normal damage. This doesn’t expend the Bardic Inspiration die.</description>
+        <description>When you hit with an unarmed strike, you deal bludgeoning damage equal to one roll of your Bardic Inspiration die plus your Dexterity modifier instead of the normal damage. This doesn’t expend the Bardic Inspiration die.</description>
       </feature>
 
       <!-- LEVEL 6 FEATURES -->
 
       <feature level="6" name="Inspiring Movement">
-        <description>When an enemy you can see ends its turn within 5 feet of you, you can use your reaction to expend a Bardic Inspiration die to move up to half your speed without provoking opportunity attacks. Then, one ally of your choice within 30 feet of you can also use their reaction to move up to half their speed without provoking opportunity attacks.</description>
+        <description>When an enemy you can see ends its turn within 5 feet of you, you can use your reaction and expend a Bardic Inspiration die to move up to half your speed without provoking opportunity attacks. One ally of your choice within 30 feet then can also use their reaction to move up to half their speed without provoking opportunity attacks.</description>
       </feature>
 
       <feature level="6" name="Tandem Footwork">
-        <description>When you roll initiative and aren’t incapacitated, you can expend one Bardic Inspiration die to grant yourself and each ally within 30 feet who can see or hear you a bonus to initiative equal to the number rolled.</description>
+        <description>When you roll initiative and aren’t incapacitated, you can expend a Bardic Inspiration die to grant yourself and each ally within 30 feet who can see or hear you a bonus to initiative equal to the number rolled.</description>
       </feature>
 
       <!-- LEVEL 14 FEATURES -->
@@ -38,4 +40,5 @@
 
     </subclass>
   </class>
+
 </compendium>
