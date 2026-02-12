@@ -1,9 +1,3 @@
-<index>
-  <name>College of Dance (2024 PHB)</name>
-  <author>YourName</author>
-  <version>1.0</version>
-  <description>Adds Bard subclass College of Dance from the 2024 Player's Handbook.</description>
-  <files>
-    <file>college_of_dance.xml</file>
-  </files>
-</index>
+<files>
+  <file>college_of_dance.xml</file>
+</files>
