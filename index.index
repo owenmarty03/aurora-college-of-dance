@@ -5,8 +5,9 @@
     <author>Owen</author>
     <version>1.0</version>
     <description>College of Dance Bard subclass (2024 PHB).</description>
+    <update />
   </info>
   <files>
-    <file url="college_of_dance.xml"/>
+    <file url="college_of_dance.xml" />
   </files>
 </index>
