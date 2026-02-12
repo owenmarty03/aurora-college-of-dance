@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1">
+<index>
   <info>
     <name>College of Dance</name>
+    <description>College of Dance Bard subclass (2024 PHB)</description>
     <author>Owen</author>
     <version>1.0</version>
-    <description>College of Dance Bard subclass (2024 PHB).</description>
-    <update />
+    <update version="1.0" />
   </info>
   <files>
     <file url="college_of_dance.xml" />
