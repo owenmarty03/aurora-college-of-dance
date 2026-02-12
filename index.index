@@ -1,4 +1,11 @@
-<files>
-  <file>college_of_dance.xml</file>
-</files>
-
+<index>
+  <information>
+    <name>College of Dance</name>
+    <author>Custom</author>
+    <version>1.0</version>
+    <description>College of Dance Bard subclass (2024 PHB).</description>
+  </information>
+  <files>
+    <file>college_of_dance.xml</file>
+  </files>
+</index>
