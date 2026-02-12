@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1">
+<index>
   <info>
     <name>College of Dance</name>
-    <description>College of Dance Bard subclass (2024 PHB)</description>
-    <author>Owen</author>
+    <description>College of Dance Bard subclass (2024 Player’s Handbook)</description>
+    <author>Custom Content</author>
     <version>1.0</version>
     <update version="1.0" />
   </info>
