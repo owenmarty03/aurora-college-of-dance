@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1">
+<index>
   <info>
     <name>College of Dance</name>
     <description>College of Dance Bard subclass (2024 Player’s Handbook)</description>
     <author>Custom Content</author>
     <version>1.0</version>
-    <update version="0.6.5">
-			  <file name="index.index" url="https://raw.githubusercontent.com/owenmarty03/aurora-college-of-dance/main/index.index" />
-		</update>
+    <update version="1.0">
+      <file name="index.index" url="https://raw.githubusercontent.com/owenmarty03/aurora-college-of-dance/main/index.index" />
+    </update>
   </info>
   <files>
     <file name="college_of_dance.xml" url="https://raw.githubusercontent.com/owenmarty03/aurora-college-of-dance/main/college_of_dance.xml" />
   </files>
 </index>
-
-
