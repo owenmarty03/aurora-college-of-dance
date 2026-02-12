@@ -8,8 +8,6 @@
     <update version="1.0" />
   </info>
   <files>
-    <file url="college_of_dance.xml" />
-  </files>
+    <file url="college_of_dance.xml"></file>
+</files>
 </index>
-
-
