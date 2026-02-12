@@ -8,6 +8,7 @@
     <update version="1.0" />
   </info>
   <files>
-    <file url="college_of_dance.xml" />
+    <file url="https://raw.githubusercontent.com/owenmarty03/aurora-college-of-dance/main/college_of_dance.xml" />
   </files>
 </index>
+
